@@ -1,0 +1,35 @@
+_repo: The-Gay-Cockade_16433
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Chambers, C. E.
+    gutenberg_agent_id: '6705'
+    url: http://www.gutenberg.org/2009/agents/6705
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bailey, Temple
+    deathdate: 1953
+    gutenberg_agent_id: '6704'
+    url: http://www.gutenberg.org/2009/agents/6704
+    wikipedia: http://en.wikipedia.org/wiki/Temple_Bailey
+description: ''
+gutenberg_issued: '2005-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16433'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+tableOfContents: The gay cockade -- The hidden land -- White birches -- The emperor's
+  ghost -- The red candle -- Returned goods -- Burned toast -- Petronella -- The canopy
+  bed -- Sandwich Jane -- Lady Crusoe -- A rebellious grandmother -- Wait--for Prince
+  Charming -- Beggars on horseback.
+title: The Gay Cockade
+url: http://www.gutenberg.org/ebooks/16433
